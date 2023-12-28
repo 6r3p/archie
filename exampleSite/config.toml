@@ -1,30 +1,30 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Archie"
+title = "6r3p"
 theme="archie"
-copyright = "© Athul"
-pygmentsstyle = "monokai"
+copyright = "© 6r3p"
+pygmentsstyle = "nord"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="auto"
+	mode="dark"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "The musings of a serial procrastinator."
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/6r3p"
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/athulcajay/"
+#[[params.social]]
+#name = "Twitter"
+#icon = "twitter"
+#url = "https://twitter.com/username/"
 
 [[params.social]]
 name = "GitLab"
 icon = "gitlab"
-url = "https://gitlab.com/athul/"
+url = "https://gitlab.com/6r3p"
 
 [[menu.main]]
 name = "Home"
