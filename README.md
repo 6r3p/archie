@@ -1,8 +1,6 @@
 # Archie - Hugo theme
 Archie is a minimal and clean theme for hugo with a markdown-ish UI. Theme has been slightly updated from forked version to follow Catppuccin theme.
 
-Forked from [Archie Theme](https://github.com/athul/archie/).
-
 ## Demo
 
 [Check the Demo](https://athul.github.io/archie/) hosted on GitHub Pages :smile: . You can find the source code to that in the `site` branch of this repository
@@ -43,8 +41,7 @@ tags: [tag names] (optional)
 ```
 
 ## Credits
-Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil) and Licensed under MIT License
-Inspired by design of blog.jse.li
+Forked from [Archie Theme](https://github.com/athul/archie/).
 
 ----
 
@@ -125,7 +122,3 @@ url = "/tags"
 weight = 4
 ```
 ---
-
-If you liked my work please consider supporting me on [BuymeACoffee](https://www.buymeacoffee.com/athulca)
-
-<a href="https://www.buymeacoffee.com/athulca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
