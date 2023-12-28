@@ -1,7 +1,7 @@
 # Archie - Hugo theme
-Archie is a minimal and clean theme for hugo with a markdown-ish UI.
+Archie is a minimal and clean theme for hugo with a markdown-ish UI. Theme has been slightly updated from forked version to follow Catppuccin theme.
 
-Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
+Forked from [Archie Theme]([https://github.com/athul/archie/])
 
 ## Demo
 
