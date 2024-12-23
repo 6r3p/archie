@@ -10,8 +10,8 @@
       href="https://github.com/6r3p/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
   </div>
 </footer>
-{{ if not .Site.IsServer }}
-{{ template "_internal/google_analytics_async.html" . }}
+{{ if not hugo.IsServer }}
+{{ template "_internal/google_analytics.html" . }}
 {{ end }}
 
 {{- if (isset .Site.Params "social") -}}

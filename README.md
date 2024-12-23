@@ -14,6 +14,7 @@ Archie is a minimal and clean theme for hugo with a markdown-ish UI. Theme has b
 - Auto Dark Mode(based on system theme)
 - Dark/Light Mode toggle
 - tl:dr; frontamatter
+- Table of contents
 - Cache busting for CSS files
 - Disqus Comments
 
@@ -27,6 +28,9 @@ $ git clone https://github.com/6r3p/archie.git
 Edit the `config.toml` file with `theme="archie"`
 For more information read the official [setup guide](https://gohugo.io/installation/) of Hugo.
 
+If you encounter any issues with Google Analytics, update Hugo to v0.125.0 or
+later and make sure your using the latest version of the theme.
+
 ## Writing Posts
 Create a new `.md` file in the *content/posts* folder
 ```yml
@@ -37,6 +41,7 @@ date:
 tldr: (optional)
 draft: true/false (optional)
 tags: [tag names] (optional)
+toc: true/false (optional)
 ---
 ```
 
